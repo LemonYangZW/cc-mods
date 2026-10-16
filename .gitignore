@@ -1,0 +1,6 @@
+# Type definitions the Claude Code engine lays into each mod folder
+.claude-plugin/types/
+
+node_modules/
+.DS_Store
+*.log

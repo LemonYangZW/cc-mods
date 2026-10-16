@@ -1,0 +1,12 @@
+{
+  "name": "cc-mods",
+  "owner": { "name": "LemonYangZW" },
+  "metadata": { "description": "Practical, low-distraction mods for Claude Code" },
+  "plugins": [
+    {
+      "name": "desktop-copy",
+      "source": "./plugins/desktop-copy",
+      "description": "Desktop-style copy in the TUI: copy whole table cells or tables, and repair mouse copies of wrapped list items, quotes and code"
+    }
+  ]
+}

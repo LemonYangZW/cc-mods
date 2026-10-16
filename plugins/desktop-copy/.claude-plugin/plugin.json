@@ -1,0 +1,10 @@
+{
+  "name": "desktop-copy",
+  "version": "0.2.0",
+  "description": "Desktop-style copy in the TUI: copy whole table cells or tables, and repair mouse copies of wrapped list items, quotes and code so they lose hard wraps and hanging indents",
+  "author": { "name": "LemonYangZW", "url": "https://github.com/LemonYangZW" },
+  "homepage": "https://github.com/LemonYangZW/cc-mods/tree/main/plugins/desktop-copy",
+  "repository": "https://github.com/LemonYangZW/cc-mods",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
