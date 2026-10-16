@@ -1,6 +1,6 @@
 {
   "name": "cc-mods",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Install, update and uninstall cc-mods, practical mods for Claude Code, with one command",
   "type": "module",
   "bin": {
