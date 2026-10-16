@@ -40,11 +40,17 @@ Claude 回复里的表格由 mod 自己绘制，样式与原来相同，鼠标�
 
 ## 安装
 
+```sh
+npx cc-mods install desktop-copy
+```
+
+或者在 Claude Code 终端会话的输入框里：
+
 ```
 /plugin install desktop-copy --marketplace LemonYangZW/cc-mods
 ```
 
-其他安装方式见[仓库 README](../../README.zh-CN.md#安装)。
+卸载用 `npx cc-mods uninstall desktop-copy`。更新方法和其他安装方式见[仓库 README](../../README.zh-CN.md#快速开始)。
 
 ## 已知限制
 

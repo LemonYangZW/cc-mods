@@ -1,0 +1,28 @@
+{
+  "name": "cc-mods",
+  "version": "0.1.0",
+  "description": "Install, update and uninstall cc-mods, practical mods for Claude Code, with one command",
+  "type": "module",
+  "bin": {
+    "cc-mods": "bin/cc-mods.mjs"
+  },
+  "files": [
+    "bin/",
+    ".claude-plugin/marketplace.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-mods"
+  ],
+  "author": "LemonYangZW",
+  "license": "MIT",
+  "homepage": "https://github.com/LemonYangZW/cc-mods#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemonYangZW/cc-mods.git"
+  }
+}

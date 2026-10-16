@@ -40,11 +40,17 @@ If you paste into Claude Code's own prompt before the repair lands, the paste is
 
 ## Install
 
+```sh
+npx cc-mods install desktop-copy
+```
+
+Or at the prompt of a Claude Code terminal session:
+
 ```
 /plugin install desktop-copy --marketplace LemonYangZW/cc-mods
 ```
 
-See the [repository README](../../README.md#install) for the other ways to install.
+To remove it, run `npx cc-mods uninstall desktop-copy`. See the [repository README](../../README.md#quick-start) for updating and the other ways to install.
 
 ## Known limitations
 
